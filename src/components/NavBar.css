@@ -1,0 +1,16 @@
+nav{
+    background-color: rgb(75, 131, 131);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    padding-top: 10px;
+    
+    
+}
+
+.paths {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
