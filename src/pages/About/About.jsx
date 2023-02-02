@@ -1,6 +1,7 @@
 const About = () => {
     return (
         <>
+        <main>
         <h1>About</h1>
         <div className="personal">
         <p>I'm a software engineer passionate about learning new technologies. My adaptability, ability to empathize and communicate well in collaborative environments makes me an excellent addition to any team. Because of my public health background, I’m highly motivated to creating solutions-driven applications that have a positive impact on users’ quality of life.</p>
@@ -26,6 +27,7 @@ const About = () => {
         </ul>
         </div>
         <img src="assets/about-pic.jpeg" alt="about-pic" />
+        </main>
 
 
         </>
